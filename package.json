@@ -1,0 +1,28 @@
+{
+  "name": "boomerang-scheduler",
+  "version": "0.0.1",
+  "description": "BoomerangJS Scheduler",
+  "keywords": [
+    "BoomerangJS",
+    "Computing",
+    "Scheduler"
+  ],
+  "author": {
+    "name": "Thomas Bergwinkl",
+    "email": "bergi@axolotlfarm.org"
+  },
+  "license": "MIT",
+  "homepage": "http://www.boomerangjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zazukoians/boomerang-scheduler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bergos/zazukoians/boomerang-scheduler/issues"
+  },
+  "main": "lib/scheduler.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "readmeFilename": "README.md"
+}

@@ -21,6 +21,9 @@
     "url": "https://github.com/bergos/zazukoians/boomerang-scheduler/issues"
   },
   "main": "lib/scheduler.js",
+  "dependencies": {
+    "uuid": "2.*"
+  },
   "scripts": {
     "test": "mocha"
   },
